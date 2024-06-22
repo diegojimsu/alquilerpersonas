@@ -2682,6 +2682,7 @@ section {
   height: 300px;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 .card-title {
   font-weight: 300;
